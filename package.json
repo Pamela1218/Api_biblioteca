@@ -1,0 +1,19 @@
+{
+  "name": "appi",
+  "version": "1.0.0",
+  "description": "Esta API permite gestionar autores y libros en una biblioteca.",
+  "main": "src/app.js",
+  "scripts": {
+  "start": "node src/app.js",
+  "dev": "nodemon src/app.js"
+},
+  "keywords": ["api", "biblioteca", "autores", "libros"],
+  "author": "Pamela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

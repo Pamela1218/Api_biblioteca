@@ -1,0 +1,27 @@
+{
+    "autores": [
+      { "id": 1, "nombre": "Miguel de Cervantes" },
+      { "id": 2, "nombre": "Jane Austen" },
+      { "id": 3, "nombre": "Gabriel García Márquez" },
+      { "id": 4, "nombre": "Harper Lee" },
+      { "id": 5, "nombre": "Fiódor Dostoyevski" },
+      { "id": 6, "nombre": "George Orwell" },
+      { "id": 7, "nombre": "Homero" },
+      { "id": 8, "nombre": "F. Scott Fitzgerald" },
+      { "id": 9, "nombre": "Gustave Flaubert" },
+      { "id": 10, "nombre": "Victor Hugo" }
+    ],
+    "libros": [
+      { "id": 1, "titulo": "Don Quijote de la Mancha", "autorId": 1, "año": 1605, "disponible": true },
+      { "id": 2, "titulo": "Orgullo y Prejuicio", "autorId": 2, "año": 1813, "disponible": true },
+      { "id": 3, "titulo": "Cien años de soledad", "autorId": 3, "año": 1967, "disponible": false },
+      { "id": 4, "titulo": "Matar a un ruiseñor", "autorId": 4, "año": 1960, "disponible": true },
+      { "id": 5, "titulo": "Crimen y castigo", "autorId": 5, "año": 1866, "disponible": false },
+      { "id": 6, "titulo": "1984", "autorId": 6, "año": 1949, "disponible": true },
+      { "id": 7, "titulo": "La Odisea", "autorId": 7, "año": -800, "disponible": false },
+      { "id": 8, "titulo": "El Gran Gatsby", "autorId": 8, "año": 1925, "disponible": true },
+      { "id": 9, "titulo": "Madame Bovary", "autorId": 9, "año": 1857, "disponible": false },
+      { "id": 10, "titulo": "Los miserables", "autorId": 10, "año": 1862, "disponible": true }
+    ]
+  }
+  
